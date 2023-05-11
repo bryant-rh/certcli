@@ -42,7 +42,7 @@ func NewCmd(o *global.CertcliOptions) *cobra.Command {
 	// rootCmd represents the base command when called without any subcommands
 	rootCmd := &cobra.Command{
 		Use:     "certcli",
-		Short:   "certcli 是一个基于Let's Encrypt 命令行https 证书申请工具 ",
+		Short:   "certcli 是一个基于Let's Encrypt 命令行https 证书申请工具, 同时支持更新上传至腾讯云的ssl证书及其关联资源",
 		Version: versionString(),
 		CompletionOptions: cobra.CompletionOptions{
 			DisableDefaultCmd: true,
