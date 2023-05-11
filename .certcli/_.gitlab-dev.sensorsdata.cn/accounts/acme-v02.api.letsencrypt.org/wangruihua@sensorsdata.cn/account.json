@@ -1,0 +1,12 @@
+{
+	"email": "wangruihua@sensorsdata.cn",
+	"registration": {
+		"body": {
+			"status": "valid",
+			"contact": [
+				"mailto:wangruihua@sensorsdata.cn"
+			]
+		},
+		"uri": "https://acme-v02.api.letsencrypt.org/acme/acct/1092921687"
+	}
+}

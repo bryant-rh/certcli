@@ -1,0 +1,5 @@
+{
+	"domain": "*.gitlab-test.sensorsdata.cn",
+	"certUrl": "https://acme-v02.api.letsencrypt.org/acme/cert/047d684824f94254ac30f587e09806497987",
+	"certStableUrl": "https://acme-v02.api.letsencrypt.org/acme/cert/047d684824f94254ac30f587e09806497987"
+}
