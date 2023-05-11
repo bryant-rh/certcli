@@ -29,4 +29,4 @@ docker:
 		--cache-to "type=local,dest=/tmp/.buildx-cache" \
 		--file=./Dockerfile \
 		--tag=bryantrh/certcli:${VERSION} \
-		.%
+		.
