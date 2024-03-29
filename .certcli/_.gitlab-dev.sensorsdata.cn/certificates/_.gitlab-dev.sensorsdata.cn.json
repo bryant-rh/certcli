@@ -1,5 +1,0 @@
-{
-	"domain": "*.gitlab-dev.sensorsdata.cn",
-	"certUrl": "https://acme-v02.api.letsencrypt.org/acme/cert/03b9d2f9942334031be808dcf06e4b15c63c",
-	"certStableUrl": "https://acme-v02.api.letsencrypt.org/acme/cert/03b9d2f9942334031be808dcf06e4b15c63c"
-}
